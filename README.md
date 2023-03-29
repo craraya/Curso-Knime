@@ -6,7 +6,7 @@
   - Cómo instalar.
   - Que extensiones necesitamos.
   - Instalación de R (opcional para algunos datos y funciones).
-### Primeros pasos.
+### Capítulo 3: Primeros pasos.
   - Tipos de archivos:
     - Archivo plano, csv y delimitado ¿Comas o punto y coma?
     - Metadata: excel, parquet, arff, etc.
@@ -28,7 +28,7 @@
       - Nodo Google Authentication.
       - Nodo Google Sheet Connection.
       - Node Google Sheet Reader/Writer/Appender/Updater.
-### Manipulación de Datos.
+### Capítulo 4: Manipulación de Datos.
   - Column Filter.
   - Reference Column Filter.
   - Row Filter. Row Spliter.
@@ -45,16 +45,15 @@
   - Sorter.
   - RowID.
   - Rule Engine.
-### Manipulación de Variables (Columnas).
+### Capítulo 5: Manipulación de Variables (Columnas).
   - Column Rename. Column Rename (Regex).
   - Math Formula. Math Formula (Multi Column).
   - Number to String.
   - String to Number.
   - Double to Int.
   - String Manipulation. String Manipulation (Multi column).
-### Loops.
-### Knime report.
-### Automatización.
-
-### Knime Server.
+### Capítulo 6: Loops.
+### Capítulo 7: Knime report.
+### Capítulo 8: Automatización.
+### Capítulo 9: Knime Server.
     
