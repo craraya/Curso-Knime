@@ -31,8 +31,8 @@
 ### Manipulación de Datos.
   - Column Filter.
   - Reference Column Filter.
-  - Row Filter - Row Spliter.
-  - Rule-based Row Filter - Rule-based Row Spliter.
+  - Row Filter. Row Spliter.
+  - Rule-based Row Filter. Rule-based Row Spliter.
   - Concatenate.
   - GroupBy. Ungroup.
   - Partitioning.
@@ -52,5 +52,9 @@
   - String to Number.
   - Double to Int.
   - String Manipulation. String Manipulation (Multi column).
-### Más.
+### Loops.
+### Knime report.
+### Automatización.
+
+### Knime Server.
     
