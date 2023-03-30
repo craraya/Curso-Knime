@@ -28,7 +28,7 @@
       - Nodo Google Authentication.
       - Nodo Google Sheet Connection.
       - Node Google Sheet Reader/Writer/Appender/Updater.
-### Capítulo 4: Manipulación de Datos.
+### Capítulo 4: Manipulación de Filas.
   - Column Filter.
   - Reference Column Filter.
   - Row Filter. Row Spliter.
@@ -45,15 +45,25 @@
   - Sorter.
   - RowID.
   - Rule Engine.
-### Capítulo 5: Manipulación de Variables (Columnas).
+### Capítulo 5: Manipulación de Columnas.
   - Column Rename. Column Rename (Regex).
   - Math Formula. Math Formula (Multi Column).
   - Number to String.
   - String to Number.
   - Double to Int.
   - String Manipulation. String Manipulation (Multi column).
+  - Date&Time to String. String to Date&Time.
+  - Extract Date&Time Fields.
 ### Capítulo 6: Loops.
+  - Column List Loop Start.
+  - Table Row To Variable Loop Start.
+  - Loop End.
 ### Capítulo 7: Knime report.
+  - Instalación.
+  - Birt.
 ### Capítulo 8: Automatización.
+  - Metanodes.
+  - Components.
+  - Variables.
 ### Capítulo 9: Knime Server.
     
