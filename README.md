@@ -54,6 +54,7 @@
   - String Manipulation. String Manipulation (Multi column).
   - Date&Time to String. String to Date&Time.
   - Extract Date&Time Fields.
+  - Scripting (R).
 ### Capítulo 6: Loops.
   - Column List Loop Start.
   - Table Row To Variable Loop Start.
@@ -62,8 +63,10 @@
   - Instalación.
   - Birt.
 ### Capítulo 8: Automatización.
+  - Variables.
   - Metanodes.
   - Components.
-  - Variables.
-### Capítulo 9: Knime Server.
+    - Inputs y Parámetros.
+    - Outputs y objetos visuales.
+### Capítulo 9: Knime Server (opcional).
     
