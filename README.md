@@ -55,16 +55,17 @@
   - Date&Time to String. String to Date&Time.
   - Extract Date&Time Fields.
   - Scripting (R).
-### Capítulo 6: Loops.
-  - Column List Loop Start.
-  - Table Row To Variable Loop Start.
-  - Loop End.
-### Capítulo 7: Automatización.
+### Capítulo 6: Automatización.
   - Variables.
+  - Table Row To Variable.Table Column To Variable.
   - Metanodes.
   - Components.
     - Inputs y Parámetros.
     - Outputs y objetos visuales.
+### Capítulo 7: Loops.
+  - Column List Loop Start.
+  - Table Row To Variable Loop Start.
+  - Loop End.
 ### Capítulo 8: Modelos.
   - Árboles:
   - Decision Tree Learner/Predictor.
@@ -78,6 +79,9 @@
   - Feature Selection Loop Start/End (1:1).
   - Forward Backward.
   - Correlation Filter.
+### Caítulo 10: Optimización de modelos.
+  - Parameter Optimization Loop Start/Stop.
+  - Elegir la mejor opción.
 ### Capítulo 9: Knime report.
   - Instalación.
   - Birt.
