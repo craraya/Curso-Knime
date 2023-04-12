@@ -59,14 +59,28 @@
   - Column List Loop Start.
   - Table Row To Variable Loop Start.
   - Loop End.
-### Capítulo 7: Knime report.
-  - Instalación.
-  - Birt.
-### Capítulo 8: Automatización.
+### Capítulo 7: Automatización.
   - Variables.
   - Metanodes.
   - Components.
     - Inputs y Parámetros.
     - Outputs y objetos visuales.
-### Capítulo 9: Knime Server (opcional).
+### Capítulo 8: Modelos.
+  - Árboles:
+  - Decision Tree Learner/Predictor.
+  - Grandiente Boosted Tree Learner/Predictor.
+  - Logistic Regression Learner/Predictor.
+  - SVM Learner/Predictor.
+  - Cross Validation.
+  - Scorer.
+  - ROC Curve.
+### Capítulo 9: Feature Selections.
+  - Feature Selection Loop Start/End (1:1).
+  - Forward Backward.
+  - Correlation Filter.
+### Capítulo 9: Knime report.
+  - Instalación.
+  - Birt.
+
+### Capítulo 10: Knime Server (opcional).
     
