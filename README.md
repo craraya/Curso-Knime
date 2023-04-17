@@ -86,7 +86,7 @@
   - Feature Selection Loop Start/End (1:1).
   - Forward Backward.
   - Correlation Filter.
-### Caítulo 11: Optimización de modelos.
+### Capítulo 11: Optimización de modelos.
   - Parameter Optimization Loop Start/Stop.
   - Elegir la mejor opción.
 ### Capítulo 12: Knime report.
