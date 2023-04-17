@@ -46,6 +46,7 @@
   - RowID.
   - Rule Engine.
 ### Capítulo 5: Manipulación de Columnas.
+  - Tipos de Datos (integer, long, double, string, boolean, list, path).
   - Column Rename. Column Rename (Regex).
   - Math Formula. Math Formula (Multi Column).
   - Number to String.
@@ -66,7 +67,13 @@
   - Column List Loop Start.
   - Table Row To Variable Loop Start.
   - Loop End.
-### Capítulo 8: Modelos.
+### Capítulo 8: Rest Web Services y JSON.
+  - Get/Post/Put Request.
+  - JSON Reader/Writer.
+  - String to JSON.
+  - JSON to Table.
+  - JSON Path.
+### Capítulo 9: Modelos.
   - Árboles:
   - Decision Tree Learner/Predictor.
   - Grandiente Boosted Tree Learner/Predictor.
@@ -75,16 +82,16 @@
   - Cross Validation.
   - Scorer.
   - ROC Curve.
-### Capítulo 9: Feature Selections.
+### Capítulo 10: Feature Selections.
   - Feature Selection Loop Start/End (1:1).
   - Forward Backward.
   - Correlation Filter.
-### Caítulo 10: Optimización de modelos.
+### Caítulo 11: Optimización de modelos.
   - Parameter Optimization Loop Start/Stop.
   - Elegir la mejor opción.
-### Capítulo 9: Knime report.
+### Capítulo 12: Knime report.
   - Instalación.
   - Birt.
 
-### Capítulo 10: Knime Server (opcional).
+### Capítulo 13: Knime Server (opcional).
     
