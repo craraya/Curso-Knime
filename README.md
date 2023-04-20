@@ -48,7 +48,6 @@
 ### Capítulo 5: Manipulación de Columnas.
   - Tipos de Datos (integer, long, double, string, boolean, list, path).
   - Column Rename. Column Rename (Regex).
-  - Table Manipulator
   - Math Formula. Math Formula (Multi Column).
   - Number to String.
   - String to Number.
@@ -57,24 +56,29 @@
   - Date&Time to String. String to Date&Time.
   - Extract Date&Time Fields.
   - Scripting (R).
-### Capítulo 6: Automatización.
+### Capítulo 6: Manipulación de Tablas.
+  - Table Manipulator.
+  - Extract Table Dimension/Spec.
+  - Table Difference Finder. 
+  - Transpose
+### Capítulo 7: Automatización.
   - Variables.
   - Table Row To Variable.Table Column To Variable.
   - Metanodes.
   - Components.
     - Inputs y Parámetros.
     - Outputs y objetos visuales.
-### Capítulo 7: Loops.
+### Capítulo 8: Loops.
   - Column List Loop Start.
   - Table Row To Variable Loop Start.
   - Loop End.
-### Capítulo 8: Rest Web Services y JSON.
+### Capítulo 9: Rest Web Services y JSON.
   - Get/Post/Put Request.
   - JSON Reader/Writer.
   - String to JSON.
   - JSON to Table.
   - JSON Path.
-### Capítulo 9: Modelos.
+### Capítulo 10: Modelos.
   - Árboles:
   - Decision Tree Learner/Predictor.
   - Grandiente Boosted Tree Learner/Predictor.
@@ -83,16 +87,16 @@
   - Cross Validation.
   - Scorer.
   - ROC Curve.
-### Capítulo 10: Feature Selections.
+### Capítulo 11: Feature Selections.
   - Feature Selection Loop Start/End (1:1).
   - Forward Backward.
   - Correlation Filter.
-### Capítulo 11: Optimización de modelos.
+### Capítulo 12: Optimización de modelos.
   - Parameter Optimization Loop Start/Stop.
   - Elegir la mejor opción.
-### Capítulo 12: Knime report.
+### Capítulo 13: Knime report.
   - Instalación.
   - Birt.
 
-### Capítulo 13: Knime Server (opcional).
+### Capítulo 14: Knime Server (opcional).
     
