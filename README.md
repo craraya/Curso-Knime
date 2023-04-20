@@ -60,9 +60,10 @@
   - Table Manipulator.
   - Extract Table Dimension/Spec.
   - Table Difference Finder. 
-  - Transpose
+  - Transpose.
+  - Missing Value.
 ### Capítulo 7: Automatización.
-  - Variables.
+  - Variable Creator.
   - Table Row To Variable.Table Column To Variable.
   - Metanodes.
   - Components.
