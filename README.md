@@ -10,7 +10,7 @@
   - Tipos de archivos:
     - Archivo plano, csv y delimitado ¿Comas o punto y coma?
     - Metadata: excel, parquet, arff, etc.
-  - Trabajos con origenes de datos.
+  - Trabajos con origenes de datos. Conectores:
     - Sql, sqlite, odbc.
   - Nodos IO:
     - Excel Reader/Writer.
