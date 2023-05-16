@@ -13,11 +13,11 @@
   - Trabajos con origenes de datos. Conectores:
     - Sql, sqlite, odbc.
   - Nodos IO:
-    - Excel Reader/Writer.
+    - CSV Reader/Writer.
     - File Reader/Writer.
     - ARFF Reader/Writer.
-    - CSV Reader/Writer.
     - Line Reader/Writer.
+    - Excel Reader/Writer.
     - Table Reader/Writer.
     - Parquet Reader/Writer.
     - AWS:
