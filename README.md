@@ -10,8 +10,6 @@
   - Tipos de archivos:
     - Archivo plano, csv y delimitado ¿Comas o punto y coma?
     - Metadata: excel, parquet, arff, etc.
-  - Trabajos con origenes de datos. Conectores:
-    - Sql, sqlite, odbc.
   - Nodos IO:
     - CSV Reader/Writer.
     - File Reader/Writer.
@@ -28,6 +26,11 @@
       - Nodo Google Authentication.
       - Nodo Google Sheet Connection.
       - Node Google Sheet Reader/Writer/Appender/Updater.
+    - Sql:
+      - Nodo Sqlite Connector.
+      - DB Query Reader.
+      - DB Writer.
+      - DB SQL Executor.
 ### Capítulo 4: Manipulación de Filas.
   - Column Filter.
   - Reference Column Filter.
