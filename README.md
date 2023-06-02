@@ -18,6 +18,7 @@
     - Excel Reader/Writer.
     - Table Reader/Writer.
     - Parquet Reader/Writer.
+    - Table Creator.
   - CLoud IO:
     - AWS:
       - Nodo Amazon Authentication.
