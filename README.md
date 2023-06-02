@@ -35,11 +35,11 @@
       - DB SQL Executor.
 ### Capítulo 4: Manipulación de Filas.
   - Row Filter. Row Spliter.
-  - Rule-based Row Filter. Rule-based Row Spliter.
+  - Rule-based Row Filter (Dictionary). Rule-based Row Spliter (Dictionary).
   - Concatenate.
   - GroupBy. Ungroup.
   - Pivoting. Unpivoting.
-  - Missing Value.
+  - Missing Value. Missing Value (Apply). (PMML Reader/Writer).
   - Partitioning.
   - Rank.
   - Row Sampling.
