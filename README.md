@@ -38,8 +38,8 @@
   - Rule-based Row Filter. Rule-based Row Spliter.
   - Concatenate.
   - GroupBy. Ungroup.
-  - Partitioning.
   - Pivoting. Unpivoting.
+  - Partitioning.
   - Rank.
   - Row Sampling.
   - Boostrap Sampling.
