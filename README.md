@@ -18,6 +18,7 @@
     - Excel Reader/Writer.
     - Table Reader/Writer.
     - Parquet Reader/Writer.
+  - CLoud IO:
     - AWS:
       - Nodo Amazon Authentication.
       - Nodo Amazon S3 Connector.
@@ -26,7 +27,7 @@
       - Nodo Google Authentication.
       - Nodo Google Sheet Connection.
       - Node Google Sheet Reader/Writer/Appender/Updater.
-    - Sql:
+  - Sql:
       - Nodo Sqlite Connector.
       - DB Query Reader.
       - DB Writer.
