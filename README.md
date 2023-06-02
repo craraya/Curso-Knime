@@ -39,6 +39,7 @@
   - Concatenate.
   - GroupBy. Ungroup.
   - Pivoting. Unpivoting.
+  - Missing Value.
   - Partitioning.
   - Rank.
   - Row Sampling.
@@ -66,7 +67,6 @@
   - Extract Table Dimension/Spec.
   - Table Difference Finder. 
   - Transpose.
-  - Missing Value.
 ### Capítulo 7: Automatización.
   - Variable Creator.
   - Table Row To Variable.Table Column To Variable.
