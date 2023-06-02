@@ -33,8 +33,6 @@
       - DB Writer.
       - DB SQL Executor.
 ### Capítulo 4: Manipulación de Filas.
-  - Column Filter.
-  - Reference Column Filter.
   - Row Filter. Row Spliter.
   - Rule-based Row Filter. Rule-based Row Spliter.
   - Concatenate.
@@ -50,6 +48,8 @@
   - RowID.
   - Rule Engine.
 ### Capítulo 5: Manipulación de Columnas.
+  - Column Filter.
+  - Reference Column Filter.
   - Tipos de Datos (integer, long, double, string, boolean, list, path).
   - Column Rename. Column Rename (Regex).
   - Math Formula. Math Formula (Multi Column).
