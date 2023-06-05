@@ -49,9 +49,9 @@
   - Sorter.
   - RowID.
 ### Capítulo 5: Manipulación de Columnas.
+  - Tipos de Datos (integer, long, double, string, boolean, list, path).
   - Column Filter.
   - Reference Column Filter.
-  - Tipos de Datos (integer, long, double, string, boolean, list, path).
   - Column Rename. Column Rename (Regex).
   - Math Formula. Math Formula (Multi Column).
   - Number to String.
