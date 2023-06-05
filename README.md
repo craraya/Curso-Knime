@@ -48,7 +48,6 @@
   - Shuffle.
   - Sorter.
   - RowID.
-  - Rule Engine.
 ### Capítulo 5: Manipulación de Columnas.
   - Column Filter.
   - Reference Column Filter.
@@ -59,6 +58,7 @@
   - String to Number.
   - Double to Int.
   - String Manipulation. String Manipulation (Multi column).
+  - Rule Engine*(Dictionary).
   - Date&Time to String. String to Date&Time.
   - Extract Date&Time Fields.
   - Scripting (R).
