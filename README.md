@@ -3,9 +3,15 @@
 ### Capítulo 1: Introducción.
 ### Capítulo 2: Knime.
   - Donde descargar.
-  - Cómo instalar.
-  - Que extensiones necesitamos.
-  - Instalación de R (opcional para algunos datos y funciones).
+  - Cómo instalar Knime.
+  - Cómo instalar extensiones necesitamos.
+  - *Instalación de R (opcional para algunos datos y funciones).
+  - Knime Workbench.
+  - Knime Explorer: Examples y Hub.
+  - Node Repository.
+  - Nodos, data y workflows (flujos).
+  - Anotaciones y comentarios.
+  - Estructura de datos.
 ### Capítulo 3: Primeros pasos.
   - Tipos de archivos:
     - Archivo plano, csv y delimitado ¿Comas o punto y coma?
@@ -54,11 +60,12 @@
   - Reference Column Filter.
   - Column Rename. Column Rename (Regex).
   - Math Formula. Math Formula (Multi Column).
+  - String Manipulation. String Manipulation (Multi column).
+  - Column / Variable Expressions.
+  - Rule Engine*(Dictionary).
   - Number to String.
   - String to Number.
   - Double to Int.
-  - String Manipulation. String Manipulation (Multi column).
-  - Rule Engine*(Dictionary).
   - Date&Time to String. String to Date&Time.
   - Extract Date&Time Fields.
   - Scripting (R).
