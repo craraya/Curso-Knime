@@ -68,6 +68,7 @@
   - Double to Int.
   - Date&Time to String. String to Date&Time.
   - Extract Date&Time Fields.
+  - Normalizer (Apply/PMML)/Denormalizer
   - Scripting (R).
 ### Capítulo 6: Manipulación de Tablas.
   - Table Manipulator.
