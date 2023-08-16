@@ -7,15 +7,15 @@
   - Cómo instalar extensiones necesitamos.
   - *Instalación de R (opcional para algunos datos y funciones).
   - Knime Workbench:
-  - Workflow Editor.
-  - Knime Explorer: My-KNIME-Hub, EXAMPLES, LOCAL.
-  - Workflows (Nodos, Anotaciones y comentarios).
-  - Workflow Coach.
-  - Node Repository.
-  - KNIME Hub.
-  - Decription.
-  - Outline.
-  - Consola.
+    - Workflow Editor.
+    - Knime Explorer: My-KNIME-Hub, EXAMPLES, LOCAL.
+    - Workflows (Nodos, Anotaciones y comentarios).
+    - Workflow Coach.
+    - Node Repository.
+    - KNIME Hub.
+    - Decription.
+    - Outline.
+    - Consola.
   - Estructura de datos (*).
 ### Capítulo 3: Primeros pasos.
   - Tipos de archivos:
